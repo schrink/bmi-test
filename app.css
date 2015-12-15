@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+section {
+	display: none;
+	
+}
+
+#splash {
+	display: block;
+	height: 100vh;
+
+	background-color: black;
+	color: white;
+}
+
+#splash h1 {
+	margin: 0;
+	padding: 200px;
+	text-align: center;
+}
